@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-esthernwachukwu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esther-nwachukwu-06640a198/)](https://www.linkedin.com/in/esther-nwachukwu-06640a198/) 
 
-I'm an aspiring Technical Product Manager and I am currently a Product Manager at [Reliance Health](https://getreliancehealth.com/). I'm passionate about web engineering, product management, and design. I would also love to contribute and help manage useful [open-source projects](https://github.com/estherbabe)...
+I'm an aspiring Technical Product Manager and I am currently a Product Manager at [Reliance Health](https://getreliancehealth.com/). I'm passionate about web engineering, product management, and design. I would also love to contribute and help manage useful [open-source projects](https://github.com/estherbabe)
 
 **Here's a quick summary about me**:
 
